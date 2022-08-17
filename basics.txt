@@ -23,3 +23,6 @@ At an extreme, if a tree divides houses into only 2 or 4, each group still has a
 Resulting predictions may be far off for most houses, even in the training data (and it will be bad in 
 validation too for the same reason). When a model fails to capture important distinctions and patterns 
 in the data, so it performs poorly even in training data, that is called underfitting.
+
+3. categorical encoding
+	- mean encoding: In this method, we will convert the categories into their mean values based on the output.
